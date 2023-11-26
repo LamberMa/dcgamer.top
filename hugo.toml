@@ -1,4 +1,4 @@
 theme = 'ananke'
-baseURL = 'https://dcgamer.top/'
+baseURL = 'http://dcgamer.top/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
